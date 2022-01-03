@@ -1,6 +1,6 @@
-# myapp
+# Shopping list app
 
-A new Flutter project.
+Practicing UI-design and flutter
 
 ## Getting Started
 
